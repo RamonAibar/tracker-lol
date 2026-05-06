@@ -69,7 +69,8 @@ export default {
   // Get rank emblem image
   getRankEmblem(tier) {
     const t = tier?.toLowerCase()
-    return `https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/${t}.png`
+    const ext = t === 'emerald' ? 'svg' : 'png'
+    return `https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/${t}.${ext}`
   },
 
   // Summoner spell ID to name mapping
