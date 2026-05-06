@@ -11,7 +11,8 @@
         <router-link to="/tierlist">Tier Lists</router-link>
       </div>
       <div class="footer-credits">
-        <p>Desenvolupat per <strong class="text-gold">Skirr</strong></p>
+        <p>Desenvolupat per <strong class="text-gold">Ramon Aibar</strong></p>
+        <p class="footer-student">Estudiant de 2n ASIX — IES Ebre</p>
         <p class="footer-disclaimer">
           LoL Tracker no està avalat per Riot Games i no reflecteix les opinions de Riot Games
           ni de ningú involucrat en la producció o gestió de propietats de Riot Games.

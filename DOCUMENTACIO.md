@@ -8,7 +8,7 @@
 
 **Títol:** LoL Tracker — Aplicació Web Vue.js  
 **Assignatura:** Informàtica  
-**Autor:** Skirr  
+**Autor:** Ramon Aibar — Estudiant de 2n ASIX, IES Ebre  
 **Data:** Maig 2026  
 **Tecnologies:** Vue.js 3, Vite, Express.js, Riot Games API, Data Dragon CDN  
 **Enllaç al servidor:** `http://localhost:5173` (frontend) · `http://localhost:3001` (backend)
