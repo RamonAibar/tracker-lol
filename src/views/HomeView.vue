@@ -135,7 +135,7 @@ const ranks = [
   { name: 'Silver', color: '#7c8b9a', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/silver.png' },
   { name: 'Gold', color: '#c89b3c', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/gold.png' },
   { name: 'Platinum', color: '#4a9a8c', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/platinum.png' },
-  { name: 'Emerald', color: '#2d9e5e', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/emerald.png' },
+  { name: 'Emerald', color: '#2d9e5e', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/emerald.svg' },
   { name: 'Diamond', color: '#576cce', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/diamond.png' },
   { name: 'Master', color: '#9d48e0', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/master.png' },
   { name: 'Grandmaster', color: '#cd4545', img: 'https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/grandmaster.png' },
